@@ -1,56 +1,35 @@
-  # 基础信息
-  title: 老王的个人主页                  # 网站标题
-  author: 老王                          # 你的名字
-  email: zhangsan@example.com           # 你的邮箱
-  description: >-                       # 网站描述，会显示在搜索引擎结果中
-    这是一个通过 Fork 模板搭建的个人网站，
-    用于记录学习和生活。
-
-  # 网址配置 (非常重要!)
-  # 对于你的个人主页(username.github.io)，下面两项通常这样配置：
-  url: "https://esccycle.github.io"     # 网站的完整地址，把“你的用户名”换成你自己的
-  baseurl: ""                         # 留空即可
-
 # Site-wide settings
-# ------------------
-#
-# title: Your awesome title
-#
-# author:
-#   name: GitHub User
-#   email: your-email@domain.com
-#
-# The `>` after `description:` means to ignore line-breaks until next key. If
-#   you wish to omit the line-break after the end of text, use `>-` instead.
-# description: >
-#   Write an awesome description for your new site here. You can edit this line
-#   in _config.yml. It will appear in your document head meta (for Google search
-#   results) and in your feed.xml site description.
+title: 老王的个人主页
+author:
+  name: esccycle
+  email: your-email@domain.com
 
+description: >
+  Write an awesome description for your new site here. You can edit this line
 
 # Build settings
 # --------------
 #
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
-# theme: minima
+theme: minima
 #
 # **OR** if you wish to use the theme directly from the GitHub repository by
 #   bypassing a Gemfile, use the following setting instead.
 #   It is best that you lock to a particular commit and update if upstream changes
 #   do not affect your site adversely.
-# remote_theme: jekyll/minima@d4d779a
+remote_theme: jekyll/minima@d4d779a
 #
 # Minima requires the following plugins:
-# plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
-# sass:
-#   quiet_deps: true
-#   silence_deprecations: [import]
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 
 
 # Minima-specific settings (applicable to Minima v3 and above only)
