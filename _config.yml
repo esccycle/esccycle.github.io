@@ -30,7 +30,7 @@ plugins:
 sass:
   quiet_deps: true
   silence_deprecations: [import]
-
+skin: classic
 
 # Minima-specific settings (applicable to Minima v3 and above only)
 # -----------------------------------------------------------------
