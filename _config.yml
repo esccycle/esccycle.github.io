@@ -31,7 +31,7 @@ sass:
   quiet_deps: true
   silence_deprecations: [import]
 
-skin: solarized-dark
+skin: dark
 
 # Minima-specific settings (applicable to Minima v3 and above only)
 # -----------------------------------------------------------------
