@@ -1,10 +1,8 @@
 ---
 layout: post
 ---
-
-<div style="text-align:center;">
   
-## 破阵子·醉里挑灯看剑
+## <center>破阵子·醉里挑灯看剑
 宋·辛弃疾
 
 醉里挑灯看剑，梦回吹角连营。
@@ -18,5 +16,3 @@ layout: post
 了却君王天下事，赢得生前身后名。
 
 可怜白发生。
-
-</div>
