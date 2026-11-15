@@ -79,6 +79,13 @@ export default sidebar({
       children: "structure",
     },
     {
+      text: "🛖 诗词",
+      icon: "",
+      prefix: "poetry/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
       text: "加密目录",
       icon: "material-symbols:encrypted",
       prefix: "encrypt/",
