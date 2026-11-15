@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Nov 2026 13:38:40 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2026 13:38:40 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 14:01:51 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:01:51 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -32,6 +32,20 @@
       <category>使用指南</category>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>https://newzone.top/poetry/aaa.html</link>
+      <guid>https://newzone.top/poetry/aaa.html</guid>
+      <source url="https://newzone.top/rss.xml"></source>
+      <description>《忆秦娥》丙午中秋乔迁新居有怀 秋风还，又携相思过故园。 过故园，明月霜染，寒蛰声残。 新檐旧物最堪联，钩起容易忘却难。 忘却难，细雨潺潺，珠泪潸潸。</description>
+      <pubDate>Sun, 15 Nov 2026 14:00:59 GMT</pubDate>
+      <content:encoded><![CDATA[<p>《忆秦娥》丙午中秋乔迁新居有怀
+秋风还，又携相思过故园。
+过故园，明月霜染，寒蛰声残。
+新檐旧物最堪联，钩起容易忘却难。
+忘却难，细雨潺潺，珠泪潸潸。</p>
 ]]></content:encoded>
     </item>
   </channel>

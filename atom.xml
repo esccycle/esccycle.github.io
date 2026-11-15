@@ -4,7 +4,7 @@
   <title>LearnData 开源笔记</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://newzone.top/logo.svg</icon>
-  <updated>2026-11-15T13:38:40.104Z</updated>
+  <updated>2026-11-15T14:01:51.262Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://newzone.top/atom.xml"/>
   <link rel="alternate" href="https://newzone.top/"/>
@@ -33,5 +33,24 @@
 ]]></content>
     <category term="使用指南"/>
     <published>2024-03-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <id>https://newzone.top/poetry/aaa.html</id>
+    <link href="https://newzone.top/poetry/aaa.html"/>
+    <updated>2026-11-15T14:00:59.000Z</updated>
+    <summary type="html"><![CDATA[<p>《忆秦娥》丙午中秋乔迁新居有怀
+秋风还，又携相思过故园。
+过故园，明月霜染，寒蛰声残。
+新檐旧物最堪联，钩起容易忘却难。
+忘却难，细雨潺潺，珠泪潸潸。</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>《忆秦娥》丙午中秋乔迁新居有怀
+秋风还，又携相思过故园。
+过故园，明月霜染，寒蛰声残。
+新檐旧物最堪联，钩起容易忘却难。
+忘却难，细雨潺潺，珠泪潸潸。</p>
+]]></content>
+    <published>2026-11-15T14:00:59.000Z</published>
   </entry>
 </feed>
