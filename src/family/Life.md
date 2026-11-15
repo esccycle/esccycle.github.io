@@ -6,7 +6,7 @@ icon: fa6-solid:star-of-life
 order: 6
 ---
 
-## 个人护理
+## 久历成诗
 
 ### 理发
 
