@@ -79,11 +79,20 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "🛖 诗词",
+      text: "💡 创造不止",
       icon: "",
-      prefix: "poetry/",
+      prefix: "creation/",
       collapsible: true,
-      children: "structure",
+      children: [
+        "README.md",
+        {
+          text: "诗词",
+          icon: "",
+          prefix: "poetry/",
+          collapsible: true,
+          children: "structure",
+        },
+      ],
     },
     {
       text: "加密目录",
