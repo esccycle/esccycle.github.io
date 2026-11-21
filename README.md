@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📚 LearnData 开源笔记</h1>
+  <h1>📚 ESCYCLE 笔记</h1>
   <p><strong>开源工具、效率方法、心理学探索的自我提升笔记</strong></p>
 
   <p>
