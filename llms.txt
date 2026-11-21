@@ -25,6 +25,9 @@
 - [Python](https://newzone.top/code/Python.html) - Python3实用学习备忘录。涵盖基础语法、常用模块、数据结构、字符串操作，及Lambda函数等进阶用法。无论初学入门还是快速查阅，助你高效掌握核心知识。
 - [正则表达式](https://newzone.top/code/Regex.html) - 正则表达式快速入门指南。汇总字符匹配、前后查找等核心语法与高频替换技巧。附带元字符速查表与分组说明，通过实战案例助你轻松掌握正则。
 - [Vue](https://newzone.top/code/Vue.html) - mounted 是生命周期函数，自动执行。
+- [前言](https://newzone.top/creation/) - 当你停止创造,你的才能就不再重要,你所拥有的只剩品味,而品味会裹挟你,让你排斥他人，变得狭隘，所以,创造。
+- [《夜怀》](https://newzone.top/creation/poetry/2022-06-16.html) - 诗词。
+- [《忆秦娥 丙午中秋乔迁新居有怀》](https://newzone.top/creation/poetry/2026-09-17.html) - 诗词。
 - [每日仪式](https://newzone.top/DailyRoutine.html) - 想养成改变生活的良好习惯？探索这套每日仪式：从5AM Club的晨间方案，到GTD时间管理，再到自我监控。学习如何通过固定流程，实现高效的自我提升。
 - [Cloudflare](https://newzone.top/deploy/Cloudflare.html) - 释放Cloudflare的强大功能！本指南教你加速网站访问，并提供页面优化的实用技巧，如设置缓存和使用Zaraz。更有进阶的Workers反向代理教程，助你全面掌控网站部署与性能。
 - [云计算服务](https://newzone.top/deploy/CloudServices.html) - 如何优化网站性能与部署？本篇云计算服务指南，探讨CDN在静态文件托管、图床和全站加速中的应用。同时分享Vercel、Cloudflare Tunnel等第三方服务的部署经验与避坑技巧。
@@ -41,8 +44,6 @@
 - [个人记录](https://newzone.top/family/Life.html) - 实用生活经验分享。涵盖个人护理（理发、穿搭）、家居妙用（铷磁铁、固定器），及玻璃自爆处理、网线更换等琐事。一系列经过实践检验的小窍门，助你轻松应对日常。
 - [健身计划](https://newzone.top/Fitness.html) - 想找个适合自己的健身计划？本文提供从饮食到室内健身的全方位指南。探索K歌减肥、比目鱼肌俯卧撑等新奇方法，了解靶心率与间歇性断食理论，科学健身，高效塑形！
 - [个人介绍](https://newzone.top/intro.html) - 互联网广告人，
-- [《夜怀》](https://newzone.top/poetry/2022-06-16.html) - 诗词。
-- [《忆秦娥 丙午中秋乔迁新居有怀》](https://newzone.top/poetry/2026-09-17.html) - 诗词。
 - [The 5 AM Club](https://newzone.top/reading/#/0_效率与习惯/The_5_AM_Club) - 早上 5 点 - 8 点，专注做 Personal Project，比如读书、考证、写作和你特别想做的事情。
 - [吃掉那只青蛙](https://newzone.top/reading/#/0_效率与习惯/吃掉那只青蛙) - 《吃掉那只青蛙》的核心是每天先完成重要的工作、吃掉丑陋的青蛙。
 - [福格行为模型](https://newzone.top/reading/#/0_效率与习惯/福格行为模型) - 《福格行为模型》是习惯养成的行为设计学。明确你的愿望或成果，然后尽可能多的罗列行为，最后找到适合你的黄金行为。习惯从微小的行动开始，比如：开煤气灶 - 烧开水 - 煮粥 - 早餐。
